@@ -1,0 +1,1 @@
+grindingwheel = { name = 'grindingwheel', label = 'grindingwheel', weight = 100, type = 'item', image = 'grindingwheel.png', unique = false, useable = true, shouldClose = false, description = 'grindingwheel' },
